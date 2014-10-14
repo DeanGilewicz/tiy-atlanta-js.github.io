@@ -5,4 +5,4 @@ This site contains basic info about the course and a list of resources that will
 
 ### Members
 
-* Dean Gilewicz : [Website](http://deangilewicz.com/) : [Twitter](https://twitter.com/gilewiczd)
+* Dean Gilewicz : [Website](http://deangilewicz.com/) : [Twitter](https://twitter.com/deangilewicz)
